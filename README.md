@@ -1,4 +1,4 @@
-# Auto-Pilot Data Visualization Engine
+# AI-Driven Automated Data Analytics & Visualization Platform
 
 An **automated data visualization engine** powered by **Google's Gemini AI**.  
 It analyzes datasets, generates visualization code, and executes interactive dashboards with built-in **error recovery** and **debugging**.
